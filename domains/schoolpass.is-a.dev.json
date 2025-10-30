@@ -1,0 +1,9 @@
+{
+  "description": "학교 외출증 시스템",
+  "owner": {
+    "email": "psy88620@gmail.com"
+  },
+  "record": {
+    "A": ["192.0.2.1"]
+  }
+}
