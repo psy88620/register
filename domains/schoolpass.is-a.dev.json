@@ -3,7 +3,7 @@
   "owner": {
     "email": "psy88620@gmail.com"
   },
-  "record": {
-    "A": ["192.0.2.1"]
-  }
+"record": {
+  "CNAME": "cname.trycloudflare.com"
+}
 }
