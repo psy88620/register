@@ -1,9 +1,12 @@
 {
-  "description": "학교 외출증 시스템",
+  "description": "학교 외출증 관리 시스템 - schoolpass",
+  "repo": "parkseungyeop/schoolpass",
   "owner": {
+    "username": "parkseungyeop",
     "email": "psy88620@gmail.com"
   },
-"record": {
-  "CNAME": "cname.trycloudflare.com"
-}
+  "record": {
+    "CNAME": "cname.trycloudflare.com"
+  },
+  "proxied": false
 }
